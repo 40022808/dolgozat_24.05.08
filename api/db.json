@@ -1,0 +1,24 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "complainant": "Lant Géza",
+      "description": "Nagyon könnyű eltörhet",
+      "products": "Üvegpohár",
+      "type": "új"
+    },
+    {
+      "id": 2,
+      "complainant": "Csoda Ernő",
+      "description": "Nagyon könnyű eltörhet",
+      "products": "Üvegpohár",
+      "type": "új"
+    },
+    {
+      "complainant": "névtelen",
+      "description": "Hiba",
+      "products": "valami",
+      "id": 3
+    }
+  ]
+}
